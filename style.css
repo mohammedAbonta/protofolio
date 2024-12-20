@@ -21,7 +21,7 @@ html {
 
 body {
   min-height: 100vh;
-  background:     #f7f7f9;
+  background:    #646970;
 }
 
 ul {
@@ -38,7 +38,7 @@ nav {
   display: flex;
   justify-content: space-between;
   padding: 15px 30px;
-  background: #646970;
+  background: white;
   position: fixed;
   top: 0;
   width: calc(100% - 60px);
