@@ -38,7 +38,7 @@ nav {
   display: flex;
   justify-content: space-between;
   padding: 15px 30px;
-  background: white;
+  background: dddddd;
   position: fixed;
   top: 0;
   width: calc(100% - 60px);
